@@ -1,0 +1,6 @@
+User inuputs name
+$name << Input: "Please write your name: "
+Print: "Hello "+[name]+". The time is "+[Time]+" and the date is "+[date]+"."
+Print: "This was written in the programming language "+[Language]+"."
+
+
